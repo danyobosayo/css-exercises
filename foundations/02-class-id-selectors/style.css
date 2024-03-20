@@ -1,0 +1,20 @@
+.redtext {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #eba4a4;
+}
+.redtext.three {
+    font-size:larger;
+}
+
+#identityone {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(18, 18, 230);
+}
+
+#identitytwo {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight:bold;
+    background-color:rgb(133, 240, 133);
+}
